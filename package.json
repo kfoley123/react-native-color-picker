@@ -1,6 +1,6 @@
 {
     "name": "react-native-color-picker-updated-slider",
-    "version": "0.6.9",
+    "version": "0.6.90",
     "description": "Color picker for react native",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
